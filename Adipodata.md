@@ -21,6 +21,8 @@ Human Adipokine ELISA kit: epitopes? primary/tertiary structure?
 
 - **(iv)** Oncorhynchus mykiss (rainbow trout) genome => orthologous gene mapping
 
+- **(v)** élargissements possibles à d'autres ressources omiques
+
 ## Résultats attendus
 - **(i)** interpoler les données RNAseq porc/poulet sur les adipocytes intra-musculaires; en déduire des jeux de gènes/marqueurs pour ces cellules; combien seraient utilisables chez la truite? en dériver des jeux de primers
 
